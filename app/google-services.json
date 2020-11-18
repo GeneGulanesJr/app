@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784680432393",
+    "firebase_url": "https://fir-appy-df507.firebaseio.com",
+    "project_id": "fir-appy-df507",
+    "storage_bucket": "fir-appy-df507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784680432393:android:fdc5b8ad85cd3590d299d8",
+        "android_client_info": {
+          "package_name": "net.lebdevelopers.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784680432393-vq1sf49vitdh6e0mttcf96fsf1tcg7fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcF-wBFtwPCOAh0DhkMypLqaJIjUyMQDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784680432393-vq1sf49vitdh6e0mttcf96fsf1tcg7fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
